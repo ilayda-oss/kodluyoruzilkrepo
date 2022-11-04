@@ -2,7 +2,7 @@
 Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
 
-![  ](https://resmim.net/i/ekran-resmi-2022-11-04-143554.VMV6k)
+![  ](https://resmim.net/cdn/2022/11/04/VMV6k.png)
 
 ## Installation
 
